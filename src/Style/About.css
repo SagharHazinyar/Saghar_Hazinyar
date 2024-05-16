@@ -14,13 +14,8 @@ p {
   max-width: max-content;
 }
 .profile {
-  max-width: 450px;
-  max-height: 450px;
-  padding-top: 0;
-  padding-right: 0;
-  margin-right: 0;
-  float: right;
-  /* border: 2px solid whitesmoke;
-  border-radius: 20px;
-  box-shadow: 2px 0px 10px whitesmoke; */
+   max-width: 100%;
+  width: 100%;
+  height: auto;
+  vertical-align: top;
 }
